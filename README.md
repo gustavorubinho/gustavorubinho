@@ -15,7 +15,7 @@ Hello 👋 Me chamo Gustavo Rubinho, tenho 18 anos e sou natural de São Paulo. 
 
 ---
 
-### 🤖 Linguagens e Conhecimentos
+### Linguagens e Conhecimentos
 
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -38,6 +38,6 @@ Hello 👋 Me chamo Gustavo Rubinho, tenho 18 anos e sou natural de São Paulo. 
 ---
 
 
-### 📊 Estatísticas
+### Estatísticas
 
 [![Gustavo Rubinho GitHub stats](https://github-stats-extended.vercel.app/api?username=gustavorubinho&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
