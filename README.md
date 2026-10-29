@@ -2,15 +2,9 @@
 
 **`Full-stack developer`** **`UI/UX designer`**
 
-Hello 👋 Me chamo Gustavo Rubinho, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Senac Lapa Scipião, com o curso técnico em multímidia. Atualmente, estou estou estudando Full Stack e UX/UI Design. Me dou bem com tecnologia e arte, e busco mesclar os dois e mcriações de projetos atráves do meu conhecimento, compartilho meu conhecimento. "[gusttkebn](https://www.instagram.com/gusttkebn/)".
+Hello 👋 Me chamo Gustavo Rubinho, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Senac Lapa Scipião, com o curso técnico em multímidia. Atualmente, estou estou estudando Full Stack e UX/UI Design.
 
 <p align="left">
-      <a href="https://www.youtube.com/@gusttkebnn?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC6ynpn3idadBV-skCUQkcPQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-      <a href="https://x.com/gusttkebn">
-         <img alt="Follow on X" title="@gusttkebn" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/x-follow-badge.svg" /></a>
-      <a href="https://github.com/gustavorubinho?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gustavorubinho?color=171717&labelColor=0F0F0F&style=for-the-badge&logo=github&label=&logoColor=white"/></a>
       <a href="https://instagram.com/gusttkebn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ---
