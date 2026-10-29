@@ -2,7 +2,7 @@
 
 **`Full-stack developer`** **`UI/UX designer`**
 
-Hello 👋 Me chamo Gustavo Rubinho, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Senac Lapa Scipião, com o curso técnico em multímidia. Atualmente, estou estou estudando Full Stack e UX/UI Design. Me dou bem com tecnologia e arte, e busco mesclar os dois e mcriações de projetos atráves do meu conhecimento, compartilho meu conhecimento e projetos através do meu canal do youtube "[Gusttavo Rubiño](https://www.youtube.com/@gusttkebnn)", onde compartilho minhas ideias e conhecimento, e também através do Instagram "[gusttkebn](https://www.instagram.com/gusttkebn/)".
+Hello 👋 Me chamo Gustavo Rubinho, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Senac Lapa Scipião, com o curso técnico em multímidia. Atualmente, estou estou estudando Full Stack e UX/UI Design. Me dou bem com tecnologia e arte, e busco mesclar os dois e mcriações de projetos atráves do meu conhecimento, compartilho meu conhecimento. "[gusttkebn](https://www.instagram.com/gusttkebn/)".
 
 <p align="left">
       <a href="https://www.youtube.com/@gusttkebnn?sub_confirmation=1">
